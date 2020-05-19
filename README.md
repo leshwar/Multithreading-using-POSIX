@@ -1,5 +1,6 @@
 # Multithreading using POSIX Library
-Warmup 2 exercise done as a part of CSCI 402 - Operating Systems
+Warmup 2 exercise done as a part of CSCI 402 - Operating Systems - Actual code hidden as per University rules. 
+Recruiters can email me for actual code.
 
 The purpose of this exercise is to __emulate/simulate a traffic shaper__ that transmits/services packets controlled by a __Token Bucket Filter__ depicted below using __Multi-threading within a single process__.
 
